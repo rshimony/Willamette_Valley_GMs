@@ -1,1 +1,5 @@
-fix_snr_st_latlon.py
+*.rfile
+*.dat
+*.grd
+*.txt
+*.DS_Store
